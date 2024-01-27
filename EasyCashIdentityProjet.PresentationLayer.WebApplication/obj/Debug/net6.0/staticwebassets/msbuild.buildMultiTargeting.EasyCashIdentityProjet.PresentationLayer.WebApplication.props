@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EasyCashIdentityProjet.PresentationLayer.WebApplication.props" />
+</Project>
